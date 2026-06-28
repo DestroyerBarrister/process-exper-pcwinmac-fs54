@@ -1,4 +1,4 @@
-# 
+# VIP Process Explorer scripts for Mac OS | Elite Process Explorer scripts for PC Windows. Featuring deep scan and windows tweaks — optimized for maximum performance on every platform.
 
 
 
